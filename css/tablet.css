@@ -1,0 +1,31 @@
+@media (max-width: 835px) /* header */ {
+  header {
+    padding: 6px 67px;
+  }
+  /* section1  */
+  .section1 {
+    padding: 115px 67px 116px;
+  }
+  /* section2  */
+  .section2{
+    padding: 80px 67px;
+  }
+  .article{
+    width: 338px;
+  }
+ 
+}
+footer {
+  padding: 31px 330px;
+}
+
+/* თამუნა, ძალიან უახლოვდებოდა 725ზე ჰოუმი მარცხნივ წარწერას და ვერ მოვიფიქრე მეტი ვერაფერი  */
+@media(max-width: 725px){
+    .headernav {
+        display: none;
+      }
+    
+      .fa-bars {
+        display: block;
+}
+}

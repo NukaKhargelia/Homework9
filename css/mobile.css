@@ -1,0 +1,40 @@
+@media (max-width: 376px) /* header */ {
+  header {
+    padding: 6px 14px;
+  }
+
+  .headernav {
+    display: none;
+  }
+
+  .fa-bars {
+    display: block;
+  }
+  /* section1 */
+  .section1 {
+    padding: 119px 14px 120px;
+  }
+  h2 {
+    font-size: 32px;
+    line-height: 40px;
+  }
+  .section1P {
+    font-size: 14px;
+    line-height: 22px;
+  }
+  /* section2 */
+  .divforarticle{
+    flex-wrap: wrap;
+  }
+  .article{
+    width: 345px;
+    flex-direction: column;
+  }
+  h3{
+    font-size: 24px;
+    line-height: 36px;
+  }
+  footer{
+    padding: 31px 100px;
+  }
+}

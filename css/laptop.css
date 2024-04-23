@@ -1,0 +1,34 @@
+@media (max-width: 1025px) /* header */ {
+  header {
+    padding: 6px 92px;
+  }
+  /* section1  */
+  .section1 {
+    padding: 171px 92px 172px;
+  }
+  /* section2  */
+  .section2{
+    padding: 130px 92px;
+  }
+  .hiddenarticle{
+    display: none;
+  }
+  .article{
+    width: 408px;
+  }
+  footer{
+    padding: 31px 424px;
+  }
+  /* section3 */
+  /* .section3div{
+    flex-direction: row;
+  }
+  .sec3div2{
+    flex-direction: row;
+    column-gap: 20px;
+  }
+  .sec3div1{
+   display: block;
+
+  } */
+}
